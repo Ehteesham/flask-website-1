@@ -1,0 +1,16 @@
+{
+  "parameter":
+  {
+    "blog_name": "EduCoder",
+    "local_uri": "mysql://root:@localhost/educoder",
+    "prod_uri": "mysql://root:@localhost/educoder",
+    "blog_tagline": "Code Compile And Run",
+    "gmail-user": "your_mail@gmail.com",
+    "gmail-password": "your_password",
+    "no_posts": 2,
+    "user_name": "ehteshaam@gmail.com",
+    "user_password": "ehteshaam",
+    "uploader_file": "D:\\Python\\python website\\static"
+  }
+
+}
